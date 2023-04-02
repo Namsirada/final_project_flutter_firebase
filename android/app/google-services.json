@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "771753690304",
+    "project_id": "project-fb5fe",
+    "storage_bucket": "project-fb5fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771753690304:android:f359d764d7b8fc0dcf5925",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771753690304-un6b76e949fb74c37ij48vvkun1bufnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEaJERhTFSashzABV8MH_A5xvuZrcrWik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771753690304-un6b76e949fb74c37ij48vvkun1bufnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771753690304-j67ti5uai568qhiqe13o46ptb63nf3a1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAuthen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
